@@ -51,15 +51,15 @@
 
 ### 📁 Featured Projects
 
-- **[GitHub PR Reviewer MCP Server](https://github.com/YuvMukhi/mcp-github-pr-reviewer)** 
+- **[GitHub PR Reviewer MCP Server](https://github.com/YuvMukhi/Github-Reviewer-MCP-Server.git)** 
   - Built a specialized FastAPI server that allows AI models to retrieve pull request details and code diffs directly via GitHub REST API
   - Developed automated security and quality checks using the Gemini API to provide instant feedback and quality scoring
 
-- **[Medical Chatbot](https://github.com/YuvMukhi/medical-chatbot)** 
+- **[Medical Chatbot](https://github.com/YuvMukhi/mchatbot-project.git)** 
   - Designed a high-performance RAG pipeline using LangChain and Sentence Transformers processed over 5k+ clinical documents
   - Optimized system latency using FAISS indexing, enabling efficient local inference with quantized Llama models
 
-- **[Stock Price Prediction](https://github.com/YuvMukhi/Stock-Price-Prediction)** 
+- **[Stock Price Prediction](https://github.com/YuvMukhi/Stock-Price-Prediction-Forecasting-using-Stacked-LSTM.git)** 
   - Developed an LSTM neural network architecture to forecast monthly stock market trends based on historical data
   - Performed rigorous out-of-sample validation against realized prices to ensure model reliability
 
