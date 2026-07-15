@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">I'm Yuv Mukhi</h1>
-<h3 align="center">AI/ML Engineer & SDE Intern</h3>
+<h3 align="center">AI/ML Engineer & Gen AI Intern</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=SDE+Intern+@+Reliance+Jio;AI+%2F+ML+Specialist;Full+Stack+Developer;Competitive+Programmer+(Pupil)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Gen+AI+Intern+@+Deloitte;Ex+SDE+Intern+@+Reliance+Jio;AI+%2F+ML+Specialist;Full+Stack+Developer;Competitive+Programmer+(Pupil)" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@
 ---
 
 ### 🚀 About Me
-- 🔭 **Current Focus**: Engineering high-impact automation tools at **Reliance Jio** and building **MCP Servers** for AI code reviews
-- 🤖 **Expertise**: Specializing in **RAG pipelines** , **LLM orchestration**, and **Edge ML** deployment
+- 🔭 **Current Focus**: Working as a **Gen AI Intern @ Deloitte**, building **MCP Servers** for AI code reviews and exploring generative AI applications
+- 🤖 **Expertise**: Specializing in **RAG pipelines**, **LLM orchestration**, and **Edge ML** deployment
 - 🏆 **Competitions**: **Pupil on Codeforces** with a peak rating of **1230**
 - 🎓 **Academics**: Pursuing B.Tech in AI & ML at **DJSCE** with a standout **9.20 CGPA**
 
@@ -39,7 +39,11 @@
 
 ### 💼 Professional Experience
 
-- **SDE Intern @ [Reliance Jio Limited](https://www.jio.com/)** 
+- **Gen AI Intern @ Deloitte** *(Current)*
+  - Working on generative AI solutions, leveraging LLMs to build tools and automation for client and internal use cases
+  - Contributing to AI-driven workflow enhancements as part of the Gen AI practice
+
+- **Ex SDE Intern @ [Reliance Jio Limited](https://www.jio.com/)** 
   - Automated financial reconciliation for 10k+ records using Python and Pandas, successfully reducing manual effort by 40%
   - Engineered data validation pipelines with integrated anomaly detection to ensure high accuracy across financial datasets
 
